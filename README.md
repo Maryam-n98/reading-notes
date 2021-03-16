@@ -14,6 +14,5 @@
 
 >Always be nice
 
-***
 
 `Mariam Najjar 22 years`
