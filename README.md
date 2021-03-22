@@ -9,3 +9,5 @@ Tabel of content
 | Read02b | [Revisions and the Cloud](read02b.md) |
 | Read03  | [Structure web pages with HTML](read03.md) |
 | Read04a | [Reflection and Discussion](read04a.md) |
+| Read05  | [Reflection and Discussion](read05.md) |
+| Read06  | [ Design web pages with CSS](read06.md) |
