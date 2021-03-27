@@ -10,3 +10,7 @@ Tabel of content
 | Read03  | [Structure web pages with HTML](read03.md) |
 | Read04a | [Reflection and Discussion](read04a.md) |
 | Read05  | [Reflection and Discussion](read05.md) |
+<<<<<<< HEAD
+| Read06  | [ Design web pages with CSS](read06.md) |
+=======
+>>>>>>> 59d1e3662b8bcc7ed482334c11245b0fbf635509

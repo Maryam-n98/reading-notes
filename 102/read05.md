@@ -1,4 +1,5 @@
 Comparison operators:
+
 == is to compares tow values only 
 === is to compares tow values and check the data type are the same.
 != it to see if they are not the same of the vale.
