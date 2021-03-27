@@ -15,7 +15,7 @@
 ## Code 201
 | Assignment| link                   |
 | -------- |-------------------------|
-| Class-one|[Introductory HTML and JavaScript](201/read01.md)  |
+| read01   |[Introductory HTML and JavaScript](201/read01.md)  |
 | read02   |[HTML Text, CSS Introduction, and Basic JavaScript Instructions](201/read02.md)  |
 | read03   |[HTML Lists, CSS Boxes, JS Control Flow](201/read03.md)  | 
 | read04   |[HTML Links, CSS Layout, JS Functions](201/read04.md)  |
