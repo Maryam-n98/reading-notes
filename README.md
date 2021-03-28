@@ -5,7 +5,7 @@
 #### Code 102 
 
 | Assignment  | Link                                       |
-| ----------- | ----                                       |
+| ----------- | -------------------------------------------|
 | Read1       | [The Coder's Computer](read1.md)           |
 | Read02a     | [Learning Markdown](read02a.md)            |
 | Read02b     | [Revisions and the Cloud](read02b.md)      |
@@ -18,7 +18,7 @@
 #### Code 201
 
 | Assignment | Link                                                                 |
-| -----------| ----                                                                 |
+| -----------| ---------------------------------------------------------------------|
 | Read01     | [Introductory HTML and JavaScript](read1.md)                         |
 | Read02     | [Basics of HTML, CSS & JS](read02.md)                                |
 | Read03     | [HTML Lists, Control Flow with JS, and the CSS Box Model](read03.md) |
