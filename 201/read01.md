@@ -18,3 +18,7 @@ In html version 5 we have a lot of element sush as "<div>", and "<span>" element
 '<header>' and '<footer>' all af twince in '<body>' element so they select the structer of the page.
 'The <nav> element is used to contain the major navigational blocks on the site such as the primary site navigation.'
 The element "<a>" use to put a link in the page.
+## Chapter 18 
+Before you start typing your website page you should know how is your target vistor to know how you should write your website page.
+Visual hierarchy: its help your vistor to understand what you want.
+You can syling your web such as the color, size and all things in your web.
