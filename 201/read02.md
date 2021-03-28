@@ -38,11 +38,11 @@ Comparison operators:
 !== its check that both of value and data type are not the same.
 >  its checks if the number on the left is greater than the number on the right.
 < its checks if the number on the left is less than the number on the right.
- >= its checks if the number on the left is greater than or equal the number on the right.
+>= its checks if the number on the left is greater than or equal the number on the right.
 <= its checks if the number on the left is less than or equal the number on the right.
 <b> logical operators: </b>
 && Logical and: if both expressions evaluate to true then the expression returns true. If just one of this returns false, then the expression will return false.
- Logical or : if one of expression evaluate to true, then the expression returns true. And if both of them is false, then the expression will return false.
+Logical or : if one of expression evaluate to true, then the expression returns true. And if both of them is false, then the expression will return false.
 ! Logical not: true returns false, false return true.
 Loops: there are three common types of loops:
 For  :’ its most common loop’, it use if you need to run code a specific number of times.
