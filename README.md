@@ -30,7 +30,7 @@
 | Read09     | [Forms and Events](read09.md)                                        |
 | Read10     | [JS Debugging](read10.md)                                            |
 | Read11     | [Assorted Topics](read11.md)                                         |
-| Read12     | [Docs for the HTML <canvas> Element & Chart.js](read12.md)           |
+| Read12     | [Docs for the HTML canvas Element & Chart.js](read12.md)             |
 | Read13     | [Local Storage](read13.md)                                           |
 | Read14a    | [CSS Transforms, Transitions, and Animations](read14a.md)            |
 | Read14b    | [What Google Learned About Teams](read14b.md)                        |
