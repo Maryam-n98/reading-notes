@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Class 1 Lab
+         </title>
+         <style>
+             body{
+                 background-color: #ece1ab ;
+                
+             }
+             header{
+                 background-color:#8ac4d0 ;
+                 color: #ece1ab;
+                 height: 90px;
+             }
+             header nav{
+                 float: right;
+             }
+             header h1{
+                 float: left;
+             }
+             header nav ul li{
+                display: inline-block;
+                margin-left: 40px;
+            }
+             .link{
+                 text-decoration: none;
+                 color: #28527a;
+                 margin-left: 40px;
+             }
+             #f{
+                 background-color:#28527a ;
+                 color: #f4d160 ;
+             } 
+             #s{
+                 color: #2c5275;
+                 background-color: #f4d160;
+             }
+             #th{
+                 color: #f3d77d;
+                 background-color: #85c3cf;
+                display: inline-block;
+             }
+             #fo{
+                 color: #85c3cf;
+                 background-color: #d3b659;
+                display: inline-block;
+             }
+             #fi{
+                 color: #f3d77d;
+                 background-color: #85c3cf;
+                display: inline-block;
+             }
+             footer{ color: #2c5275;
+                 background-color: #f4d160;
+             }
+         </style>
+</head>
+<body>
+   <header> 
+       <h1> 
+        Class 1 Lab
+       </h1>
+       <nav>
+           <ul>
+               <li><a href="" class="link">Home
+
+               </a>
+               <a href="" class="link">Conect us
+
+               </a>
+               <a href="" class="link">About us
+
+               </a>
+            </li>
+           </ul>
+       </nav>
+   </header>
+   <main>
+       <section id="f" >
+       <p> 
+           Whats your name? 
+       </p>
+    </section>
+    <section id="s" >
+        <p> 
+            Who old are you?
+        </p>
+    </section>
+    <section id="th" >
+       <p> 
+        Are you interested in football?
+       </p>
+       <img src="https://www.thesun.co.uk/wp-content/uploads/2020/08/crop-12310191.jpg?strip=all&w=960" alt="football fans" width="250px" height="250px">
+    </section>   
+    <section id="fo" >
+        <p>
+            What's your favorite team?
+        </p>
+        <img src="https://i.ebayimg.com/images/g/4PEAAOSwQrJbZXYz/s-l1600.jpg" alt="football" width="250px">
+
+    </section>
+    <section id="fi" >
+        <p>
+            What's your favorite football player?
+        </p>
+        <img src="https://image.freepik.com/free-vector/funny-cute-cartoon-football-player_6317-1972.jpg" alt="football player" width="250">
+    </section>
+
+   </main>
+   <footer> 
+       &copy; 2021 Maryam Najjar
+   </footer>
+
+    <script>
+       let userName= prompt('Whats your name?');
+       console.log(userName);
+       alert(' Hi ' + userName);
+       let age= prompt('Who old are you?');
+       console.log(age);
+       alert(' Hi ' + userName + ' you are ' + age + ' years old ');
+       let interested= confirm(' Are you interested in football? ');
+       console.log(interested);
+       alert(' Hi ' + userName + ' you are ' + age + ' years old ' + interested );
+       let team= prompt('Whats your favorite team?');
+       console.log(team);
+       alert(' Hi ' + userName + ' you are ' + age + ' years old ' + interested + ' your favorite team is ' + team );
+       let player= prompt('Whats your favorite football player?');
+       console.log(player);
+       alert(' Hi ' + userName + ' you are ' + age + ' years old ' + interested + ' your favorite team is ' + team + ' your favorite player is ' + player );
+       alert('Thank you for share us your intersting')
+    </script>
+
+</body>
+
+</html>
