@@ -21,3 +21,14 @@ Yu can select a color for border, and change hight, wiedth, and its same for mar
 ## From the Duckett JS book:
 
 ### Chapter 2:
+"A script is made up of a series of statements. Each statement is like a step in a recipe. "
+ARITHMETIC OPERATORS:
+In java you can use some opetators : to ADDITION use +, to SUBTRACTION -, toDIVISION use /, to MULTIPLICATION use *, to INCREMENT use ++, to DECREMENT use --, and finally to MODULUS use %.
+you can use boolean (true and false).
+"Expressions rely on operators to calculate a value."
+### Chapter 4:
+In java you can too use statment like if else statment and swich statment.
+"Comparison operators (===, ! ==, ==, ! =, <, >, <=, =>) are used to compare two operands."
+"A switch statement starts with a variable called the switch value. Each case indicates a possible value for this variable and the code that should run if the variable matches that value."
+Loop its use when you need to reapet a statment more than one time.
+this is three type for loop : for loop , while loop, and do while loop.
