@@ -31,7 +31,7 @@ Its allow you to save a value to virebles, calcoulate, have a pop messege, and a
 ## chapter 4
 In java you can use evaluting conditoin.
 Comparison operators:
-== is to compares tow values only 
+== is to compares tow values only.
 === is to compares tow values and check the data type are the same.
 != it to see if they are not the same of the vale.
 !== its check that both of value and data type are not the same.
