@@ -26,7 +26,7 @@
 | Read05     | [Images, Color, Text](201/read05.md)                                     |
 | Read06     | [JS Object Literals; The DOM](201/read06.md)                             |
 | Read07     | [HTML Tables; JS Constructor Functions](201/read07.md)                   |
-| Read08     | [ More CSS Layout](201/read8.md)                                         |
+| Read08     | [ More CSS Layout](201/read08.md)                                        |
 | Read09     | [Forms and Events](201/read09.md)                                        |
 | Read10     | [JS Debugging](201/read10.md)                                            |
 | Read11     | [Assorted Topics](201/read11.md)                                         |
