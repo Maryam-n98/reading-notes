@@ -39,6 +39,6 @@ www.keyworddiscovery.com.
  Many companies provide platforms for blogging, email newsletters, e-commerce and other popular website tools (to save you writing them from scratch).
 
  ## FROM THIS LINK: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Video_and_audio_APIs:
- HTML5 comes with elements for embedding rich media in documents — <video> and <audio> — which in turn come with their own APIs for controlling playback, seeking, etc. This article shows you how to do common tasks such as creating custom playback controls.
+ HTML5 comes with elements for embedding rich media in documents — "<video> and <audio>" — which in turn come with their own APIs for controlling playback, seeking, etc. This article shows you how to do common tasks such as creating custom playback controls.
 you can put a lot of things in your page.
-The <video> and <audio> elements allow us to embed video and audio into web pages.
+The '<video> and <audio>' elements allow us to embed video and audio into web pages.
