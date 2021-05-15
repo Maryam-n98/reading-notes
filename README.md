@@ -1,8 +1,7 @@
-# Hello there, I'm Maryam Najjar.
-### freash graduate from The Universty of Jordan.
+# Reading Notes
 
 
-#### Code 102 
+## Code 102 - Intro to Software Development
 
 | Assignment  | Link                                           |
 | ----------- | -----------------------------------------------|
@@ -15,7 +14,7 @@
 | Read06      | [ Design web pages with CSS](102/read06.md)    |
 
 ******
-#### Code 201
+## Code 201 - Foundations of Software Development
 
 | Assignment | Link                                                                     |
 | -----------| -------------------------------------------------------------------------|
@@ -33,4 +32,10 @@
 | Read12     | [Docs for the HTML canvas Element & Chart.js](201/read12.md)             |
 | Read13     | [Local Storage](201/read13.md)                                           |
 | Read13b    | [What Google Learned About Teams](201/read13b.md)                        |
-| Read14a    | [CSS Transforms, Transitions, and Animations](201/read14.md)            |
+| Read14a    | [CSS Transforms, Transitions, and Animations](201/read14.md)             |
+
+*******
+## Code 301 - Intermediate Software Development
+
+*******
+## Code 401 - Advanced Software Development
