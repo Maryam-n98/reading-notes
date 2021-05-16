@@ -36,6 +36,12 @@
 
 *******
 ## Code 301 - Intermediate Software Development
+| Assignment  | Link                                           |
+| ----------- | -----------------------------------------------|
+| Read01      |                                                |
+| Read02      | Readings: State and Props (301/read02.md)      |
+
+
 
 *******
 ## Code 401 - Advanced Software Development
