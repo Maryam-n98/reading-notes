@@ -39,7 +39,7 @@
 | Assignment  | Link                                           |
 | ----------- | -----------------------------------------------|
 | Read01      |                                                |
-| Read02      | Readings: State and Props (301/read02.md)      |
+| Read02      | [Readings: State and Props](301/read02.md)      |
 
 
 
