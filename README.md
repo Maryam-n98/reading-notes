@@ -36,10 +36,10 @@
 
 *******
 ## Code 301 - Intermediate Software Development
-| Assignment  | Link                                           |
-| ----------- | -----------------------------------------------|
-| Read01      |                                                |
-| Read02      | [Readings: State and Props](301/read02.md)      |
+| Assignment  | Link                                                            |
+| ----------- | -----------------------------------------------                 |
+| Read01      | [Readings: Introduction to React and Components](301/read01.md) |
+| Read02      | [Readings: State and Props](301/read02.md)                      |
 
 
 
