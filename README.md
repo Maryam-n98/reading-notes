@@ -42,7 +42,7 @@
 | Read02      | [Readings: State and Props](301/read02.md)                      |
 | Read03      | [Readings: Passing Functions as Props](301/read03.md)           |
 | Read04      | [Readings: React and Forms](301/read04.md)                      |
-
+| Read05      | [ Readings: Putting it all together](301/read05.md)             |
 
 
 
