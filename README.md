@@ -49,7 +49,7 @@
 | Read07      | [Readings: REST](301/read07.md)                                 |
 | Read08      | [Readings: APIs](301/read08.md)                                 |
 | Read09      | [Readings: FUNCTIONAL PROGRAMMING](301/read09.md)               |
-| Read10      | [Readings: In memory storage](301/read10.md)                                 |
+| Read10      | [Readings: In memory storage](301/read10.md)                    |
 
 
 
