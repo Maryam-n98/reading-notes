@@ -48,4 +48,5 @@ A POST request creates a resource. The server assigns a URI for the new resource
 ### What status code does a successful DELETE request return?
 
 The effect of a specific request should depend on whether the resource is a collection or an individual item. The following table summarizes the common conventions adopted by most RESTful implementations using the e-commerce example. Not all of these requests might be implemented—it depends on the specific scenario.
+000
 
