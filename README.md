@@ -50,6 +50,7 @@
 | Read08      | [Readings: APIs](301/read08.md)                                 |
 | Read09      | [Readings: FUNCTIONAL PROGRAMMING](301/read09.md)               |
 | Read10      | [Readings: In memory storage](301/read10.md)                    |
+| Read11      | [Readings: Authentication](301/read11.md)                       |
 
 
 
