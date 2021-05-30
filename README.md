@@ -51,6 +51,7 @@
 | Read09      | [Readings: FUNCTIONAL PROGRAMMING](301/read09.md)               |
 | Read10      | [Readings: In memory storage](301/read10.md)                    |
 | Read11      | [Readings: Authentication](301/read11.md)                       |
+| Read12      | [Readings: Mongo and Mongoose](301/read12.md)                   |
 
 
 
