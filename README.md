@@ -52,6 +52,7 @@
 | Read10      | [Readings: In memory storage](301/read10.md)                    |
 | Read11      | [Readings: Authentication](301/read11.md)                       |
 | Read12      | [Readings: Mongo and Mongoose](301/read12.md)                   |
+| Read13      | [Readings: CRUD](301/read13.md)                                 |
 
 
 
