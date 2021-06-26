@@ -61,3 +61,6 @@
 
 *******
 ## Code 401 - Advanced Software Development
+| Assignment  | Link                                    |
+| ----------- | ----------------------------------------|
+| Read01      | [Read: 01 - Java Basics](401/read01.md) |
