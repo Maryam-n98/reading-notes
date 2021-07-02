@@ -25,6 +25,7 @@ You cannot declare more than one method with the same name and the same number a
 
 ## Binary, Decimal and Hexadecimal Numbers
 
+#### Binary
 A Decimal Number (based on the number 10) contains a Decimal Point.
 The decimal point goes between Ones and Tenths.
 Every digit in a decimal number has a "position":
@@ -32,3 +33,5 @@ Every position further to the left is 10 times bigger, and every position furthe
 
 Binary Numbers: are just "Base 2" instead of "Base 10". So you start counting at 0, then 1, then you run out of digits.
 
+#### Hexadecimals
+There are 16 Hexadecimal digits. They are the same as the decimal digits up to 9, but then there are the letters A, B, C, D, E and F in place of the decimal numbers 10 to 15.
