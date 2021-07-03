@@ -4,22 +4,22 @@
  LinkedList is a data structure that stores elements in a non-contiguous location. It is a linear data structure.
  There are two types of Linked List - Singly and Doubly. 
 
- ###### Singly: 
+ ##### Singly: 
  The singly linked list is a linear data structure in which each element of the list contains a pointer which points to the next element in the list.
 
- ###### Doubly:
+ ##### Doubly:
  are an extension of basic linked lists, but they contain a pointer to the next node as well as the previous node. This ensures that the list can be traversed in both directions.
 
- ###### Node:
+ ##### Node:
  Nodes are the individual items/links that live in a linked list. Each node contains the data for each link.
 
- ###### Next:
+ ##### Next:
  Each node contains a property called Next. This property contains the reference to the next node.
 
- ###### Head:
+ ##### Head:
  the first node in a linked list.
  this is effectively the only entry point to the list and all of its elements.
- ###### Current:
+ ##### Current:
  node that is currently being looked at. When traversing.
 
 
