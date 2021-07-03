@@ -68,5 +68,5 @@
 | Read02      | [Read: 02 - Arrays, Loops, Imports](401/read02.md)     |
 | Read03      | [Read: 03 - Maps, primitives, File I/O](401/read03.md) |
 | Read04      | [Read: 04 - OOP](401/read04.md)                        |
-
+|Linked Lists | [Read: 04 - OOP](401/linked-list.md)                   |
 
