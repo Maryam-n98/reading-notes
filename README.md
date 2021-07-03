@@ -69,4 +69,6 @@
 | Read03      | [Read: 03 - Maps, primitives, File I/O](401/read03.md) |
 | Read04      | [Read: 04 - OOP](401/read04.md)                        |
 |Linked Lists | [Read: Linked Lists](401/linked-list.md)               |
+| Read06      | [Read: 06 - Inheritance and Interfaces](401/read06.md) |
+
 
