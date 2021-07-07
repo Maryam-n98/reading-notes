@@ -71,5 +71,8 @@
 |Linked Lists | [Read: Linked Lists](401/linked-list.md)               |
 | Read06      | [Read: 06 - Inheritance and Interfaces](401/read06.md) |
 | Read08      | [Read: 08 - OO Design](401/read08.md)                  |
+| Read09      | [Read: 09 - WRRC and Java](401/read09.md)              |
+
+
 
 
