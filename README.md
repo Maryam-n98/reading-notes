@@ -62,15 +62,16 @@
 *******
 ## Code 401 - Advanced Software Development
 
-| Assignment     | Link                                                   |
-| -------------- | -------------------------------------------------------|
-| Read01         | [Read: 01 - Java Basics](401/read01.md)                |
-| Read02         | [Read: 02 - Arrays, Loops, Imports](401/read02.md)     |
-| Read03         | [Read: 03 - Maps, primitives, File I/O](401/read03.md) |
-| Read04         | [Read: 04 - OOP](401/read04.md)                        |
-|Linked Lists    | [Read: Linked Lists](401/linked-list.md)               |
-| Read06         | [Read: 06 - Inheritance and Interfaces](401/read06.md) |
-| Read08         | [Read: 08 - OO Design](401/read08.md)                  |
-| Read09         | [Read: 09 - WRRC and Java](401/read09.md)              |
-|Stacks & Queues | [Read: Stacks & Queues](401/read10.md)                 |
-|Read11          | [Read: 11 - Spring](401/read11.md)                     |
+| Assignment     | Link                                                             |
+| -------------- | -----------------------------------------------------------------|
+| Read01         | [Read: 01 - Java Basics](401/read01.md)                          |
+| Read02         | [Read: 02 - Arrays, Loops, Imports](401/read02.md)               |
+| Read03         | [Read: 03 - Maps, primitives, File I/O](401/read03.md)           |
+| Read04         | [Read: 04 - OOP](401/read04.md)                                  |
+|Linked Lists    | [Read: Linked Lists](401/linked-list.md)                         |
+| Read06         | [Read: 06 - Inheritance and Interfaces](401/read06.md)           |
+| Read08         | [Read: 08 - OO Design](401/read08.md)                            |
+| Read09         | [Read: 09 - WRRC and Java](401/read09.md)                        |
+|Stacks & Queues | [Read: Stacks & Queues](401/read10.md)                           |
+|Read11          | [Read: 11 - Spring](401/read11.md)                               |
+|Read12          | [Read: 12 - Spring RESTful Routing & Static Files](401/read12.md)|
