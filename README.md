@@ -75,3 +75,8 @@
 |Stacks & Queues | [Read: Stacks & Queues](401/read10.md)                           |
 |Read11          | [Read: 11 - Spring](401/read11.md)                               |
 |Read12          | [Read: 12 - Spring RESTful Routing & Static Files](401/read12.md)|
+|Read13          | [Read: 13 - Related Resources and Integration Testing](401/read13.md)|
+|Trees           | [Read: Trees](401/read14.md)|
+|Read16          | [Read: 16 - Spring Authentication](401/read16.md)|
+|Read17          | [Read: 17 - Spring Authorization](401/read17.md)|
+
