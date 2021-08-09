@@ -6,6 +6,7 @@ Every project that you need to use spring, you have to do the following:
 2. Add Dependencies
 3. Build Your Project
 
+
 * You can connect the server with JSON file 
 * You can create a Message-handling Controller
 * You can configure Spring to enable WebSocket and STOMP messaging
