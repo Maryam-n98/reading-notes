@@ -82,3 +82,5 @@
 |Read18          | [Read: 18 - Web App Security](401/read18.md)|
 |Read19          | [Read: 19 - Spring and Sockets](401/read19.md)|
 |Read26          | [Read: 26 - Android Fundamentals](401/read26.md)|
+|Read27          | [Read: 27 - Intents, Activities, and SharedPreferences](401/read27.md)|
+
