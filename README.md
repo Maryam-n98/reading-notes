@@ -83,4 +83,8 @@
 |Read19          | [Read: 19 - Spring and Sockets](401/read19.md)|
 |Read26          | [Read: 26 - Android Fundamentals](401/read26.md)|
 |Read27          | [Read: 27 - Intents, Activities, and SharedPreferences](401/read27.md)|
+|Read28          | [Read28: Create dynamic lists with RecyclerView](401/read28.md)|
+|Read29          | [Read 29: Room](401/read29.md)|
+|Hash Table      | [Read: Hash Tables](401/read30.md)|
+
 
