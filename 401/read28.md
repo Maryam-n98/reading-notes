@@ -1,4 +1,4 @@
-# Read29: Create dynamic lists with RecyclerView  
+# Read28: Create dynamic lists with RecyclerView  
 
 * RecyclerView is used to view a large set of data.
 * All of the data in the RecyclerView will have the same view and style.
