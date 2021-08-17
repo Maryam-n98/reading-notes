@@ -86,7 +86,13 @@
 |Read28          | [Read28: Create dynamic lists with RecyclerView](401/read28.md)|
 |Read29          | [Read 29: Room](401/read29.md)|
 |Hash Table      | [Read: Hash Tables](401/read30.md)|
-|Read3           | [Read 30: Android Tests](401/read31.md)|
+|Read31          | [Read 30: Android Tests](401/read31.md)|
+|Read32          | [Read 32: Serverless and Amplify](401/read32.md)|
+|Read33          | [Read 33 : API (GRAPHQL)](401/read33.md)|
+
+
+
+
 
 
 
