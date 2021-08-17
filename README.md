@@ -89,6 +89,8 @@
 |Read31          | [Read 30: Android Tests](401/read31.md)|
 |Read32          | [Read 32: Serverless and Amplify](401/read32.md)|
 |Read33          | [Read 33 : API (GRAPHQL)](401/read33.md)|
+|Read34          | [Read34: Android Monetization](401/read34.md)|
+
 
 
 
