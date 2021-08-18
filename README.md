@@ -90,6 +90,8 @@
 |Read32          | [Read 32: Serverless and Amplify](401/read32.md)|
 |Read33          | [Read 33 : API (GRAPHQL)](401/read33.md)|
 |Read34          | [Read34: Android Monetization](401/read34.md)|
+|Read: Graphs    | [Read35:Graph](401/read35.md)|
+
 
 
 
