@@ -91,6 +91,11 @@
 |Read33          | [Read 33 : API (GRAPHQL)](401/read33.md)|
 |Read34          | [Read34: Android Monetization](401/read34.md)|
 |Read: Graphs    | [Read35:Graph](401/read35.md)|
+|Read36          | [Read36:Cognito](401/read36.md)|
+|Read37          | [Read37:Amazon S3](401/read37.md)|
+|Read38          | [Read38:Notification](401/read38.md)|
+
+
 
 
 
