@@ -97,6 +97,8 @@
 |Read39          | [Read: 39 - Kinesis](401/read39.md)|
 |Read41          | [Read: 41 - Intent Filters](401/read41.md)|
 |Read42          | [Read: 42 - Location](401/read42.md)|
+|Read42(2)       | [Read: Class 42 - Ethics in Tech](401/read42-2.md)|
+
 
 
 
