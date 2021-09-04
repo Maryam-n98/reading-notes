@@ -98,6 +98,8 @@
 |Read41          | [Read: 41 - Intent Filters](401/read41.md)|
 |Read42          | [Read: 42 - Location](401/read42.md)|
 |Read42(2)       | [Read: Class 42 - Ethics in Tech](401/read42-2.md)|
+|Read43          | [Read: 43 - Kinesis & Analytics](401/read43.md)|
+
 
 
 
