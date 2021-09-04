@@ -95,15 +95,6 @@
 |Read37          | [Read37:Amazon S3](401/read37.md)|
 |Read38          | [Read38:Notification](401/read38.md)|
 |Read39          | [Read: 39 - Kinesis](401/read39.md)|
-
-
-
-
-
-
-
-
-
-
+|Read41          | [Read: 41 - Intent Filters](401/read41.md)|
 
 
